@@ -1,1 +1,1 @@
-# Spotify_User_Behavior_-_Churn_EDA
+# Spotify User Behavior & Churn EDA
